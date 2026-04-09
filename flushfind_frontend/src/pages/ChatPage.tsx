@@ -1,5 +1,5 @@
-import { Outlet, useMatch, Link } from "react-router";
-
+import { Outlet, useMatch } from "react-router";
+//Link for links for each individual chatroom
 import { IoSearch } from "react-icons/io5";
 import { chats } from "../data/chat";
 import ChatPreview from "../components/Chat/ChatRoom/ChatPreview";

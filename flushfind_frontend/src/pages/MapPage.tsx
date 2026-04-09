@@ -1,5 +1,5 @@
-import { MapContainer, TileLayer, useMap } from "react-leaflet";
-
+import { MapContainer, TileLayer } from "react-leaflet";
+//useMap for react-leaflet
 import { IoAddCircleOutline, IoSearch } from "react-icons/io5";
 
 export default function MapPage() {
